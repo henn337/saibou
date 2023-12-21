@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
-#EXTINF:-1 group-title="pjtv", CCTV1
+#EXTINF:-1 group-title="pjtv" tvg-name="CCTV1", CCTV1
 http://pjx2.pujun.top:4023/udp/239.49.8.19:9614
 #EXTINF:-1 group-title="pjtv", CCTV2
 http://pjx2.pujun.top:4023/udp/239.49.8.50:9802
