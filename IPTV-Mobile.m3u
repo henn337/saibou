@@ -1,0 +1,148 @@
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
+#EXTINF:-1 group-title="pjtv", CCTV1
+http://pjx2.pujun.top:4023/udp/239.49.8.19:9614
+#EXTINF:-1 group-title="pjtv", CCTV2
+http://pjx2.pujun.top:4023/udp/239.49.8.50:9802
+#EXTINF:-1 group-title="pjtv", CCTV3
+http://pjx2.pujun.top:4023/udp/239.49.9.31:6000
+#EXTINF:-1 group-title="pjtv", CCTV4
+http://pjx2.pujun.top:4023/udp/239.49.8.51:9806
+#EXTINF:-1 group-title="pjtv", CCTV5
+http://pjx2.pujun.top:4023/udp/239.49.8.75:8000
+#EXTINF:-1 group-title="pjtv", CCTV5+
+http://pjx2.pujun.top:4023/udp/239.49.8.18:9610
+#EXTINF:-1 group-title="pjtv", CCTV6
+http://pjx2.pujun.top:4023/udp/239.49.9.33:6000
+#EXTINF:-1 group-title="pjtv", CCTV7
+http://pjx2.pujun.top:4023/udp/239.49.1.254:6000
+#EXTINF:-1 group-title="pjtv", CCTV8
+http://pjx2.pujun.top:4023/udp/239.49.9.34:6000
+#EXTINF:-1 group-title="pjtv", CCTV9
+http://pjx2.pujun.top:4023/udp/239.49.8.53:9814
+#EXTINF:-1 group-title="pjtv", CCTV10
+http://pjx2.pujun.top:4023/udp/239.49.8.54:9818
+#EXTINF:-1 group-title="pjtv", CCTV11
+http://pjx2.pujun.top:4023/udp/239.49.1.11:6000
+#EXTINF:-1 group-title="pjtv", CCTV12
+http://pjx2.pujun.top:4023/udp/239.49.8.55:9822
+#EXTINF:-1 group-title="pjtv", CCTV13
+http://pjx2.pujun.top:4023/udp/239.49.9.43:6000
+#EXTINF:-1 group-title="pjtv", CCTV14
+http://pjx2.pujun.top:4023/udp/239.49.8.56:9826
+#EXTINF:-1 group-title="pjtv", CCTV15
+http://pjx2.pujun.top:4023/udp/239.49.1.15:6000
+#EXTINF:-1 group-title="pjtv", CCTV16
+http://pjx2.pujun.top:4023/udp/239.49.9.58:6000
+#EXTINF:-1 group-title="pjtv", CCTV16
+http://pjx2.pujun.top:4023/udp/239.49.9.59:6000
+#EXTINF:-1 group-title="pjtv", CCTV17
+http://pjx2.pujun.top:4023/udp/239.49.8.52:9810
+#EXTINF:-1 group-title="pjtv", CETV1
+http://pjx2.pujun.top:4023/udp/239.49.8.115:8000
+#EXTINF:-1 group-title="pjtv", 湖南卫视
+http://pjx2.pujun.top:4023/udp/239.49.8.12:9418
+#EXTINF:-1 group-title="pjtv", 江苏卫视
+http://pjx2.pujun.top:4023/udp/239.49.8.16:9602
+#EXTINF:-1 group-title="pjtv", 浙江卫视
+http://pjx2.pujun.top:4023/udp/239.49.8.20:9618
+#EXTINF:-1 group-title="pjtv", 东方卫视
+http://pjx2.pujun.top:4023/udp/239.49.8.17:9606
+#EXTINF:-1 group-title="pjtv", 北京卫视
+http://pjx2.pujun.top:4023/udp/239.49.8.11:9414
+#EXTINF:-1 group-title="pjtv", 深圳卫视
+http://pjx2.pujun.top:4023/udp/239.49.8.15:9430
+#EXTINF:-1 group-title="pjtv", 广东卫视
+http://pjx2.pujun.top:4023/udp/239.49.8.13:9422
+#EXTINF:-1 group-title="pjtv", 安徽卫视
+http://pjx2.pujun.top:4023/udp/239.49.8.80:8000
+#EXTINF:-1 group-title="pjtv", 河南卫视
+http://pjx2.pujun.top:4023/udp/239.49.8.29:8000
+#EXTINF:-1 group-title="pjtv", 黑龙江卫视
+http://pjx2.pujun.top:4023/udp/239.49.8.14:9426
+#EXTINF:-1 group-title="pjtv", 山东卫视
+http://pjx2.pujun.top:4023/udp/239.49.8.7:9306
+#EXTINF:-1 group-title="pjtv", 天津卫视
+http://pjx2.pujun.top:4023/udp/239.49.8.35:8620
+#EXTINF:-1 group-title="pjtv", 四川卫视
+http://pjx2.pujun.top:4023/udp/239.49.8.110:8000
+#EXTINF:-1 group-title="pjtv", 重庆卫视
+http://pjx2.pujun.top:4023/udp/239.49.8.57:9830
+#EXTINF:-1 group-title="pjtv", 湖北卫视
+http://pjx2.pujun.top:4023/udp/239.49.8.8:9632
+#EXTINF:-1 group-title="pjtv", 江西卫视
+http://pjx2.pujun.top:4023/udp/239.49.8.111:8000
+#EXTINF:-1 group-title="pjtv", 贵州卫视
+http://pjx2.pujun.top:4023/udp/239.49.8.49:8000
+#EXTINF:-1 group-title="pjtv", 东南卫视
+http://pjx2.pujun.top:4023/udp/239.49.8.112:8000
+#EXTINF:-1 group-title="pjtv", 云南卫视
+http://pjx2.pujun.top:4023/udp/239.49.0.177:8000
+#EXTINF:-1 group-title="pjtv", 河北卫视
+http://pjx2.pujun.top:4023/udp/239.49.8.114:8000
+#EXTINF:-1 group-title="pjtv", 广西卫视
+http://pjx2.pujun.top:4023/udp/239.49.8.209:6000
+#EXTINF:-1 group-title="pjtv", 海南卫视
+http://pjx2.pujun.top:4023/udp/239.49.8.83:8000
+#EXTINF:-1 group-title="pjtv", 吉林卫视
+http://pjx2.pujun.top:4023/udp/239.49.8.113:8000
+#EXTINF:-1 group-title="pjtv", 辽宁卫视
+http://pjx2.pujun.top:4023/udp/239.49.8.48:8000
+#EXTINF:-1 group-title="pjtv", 兵器科技
+http://pjx2.pujun.top:4023/udp/239.49.8.88:8000
+#EXTINF:-1 group-title="pjtv", 第一剧场
+http://pjx2.pujun.top:4023/udp/239.49.8.94:8000
+#EXTINF:-1 group-title="pjtv", 风云剧场
+http://pjx2.pujun.top:4023/udp/239.49.8.89:8000
+#EXTINF:-1 group-title="pjtv", 风云音乐
+http://pjx2.pujun.top:4023/udp/239.49.8.92:8000
+#EXTINF:-1 group-title="pjtv", 风云足球
+http://pjx2.pujun.top:4023/udp/239.49.8.85:8000
+#EXTINF:-1 group-title="pjtv", 高尔夫网球
+http://pjx2.pujun.top:4023/udp/239.49.9.7:6000
+#EXTINF:-1 group-title="pjtv", 怀旧剧场
+http://pjx2.pujun.top:4023/udp/239.49.8.91:8000
+#EXTINF:-1 group-title="pjtv", 央视台球
+http://pjx2.pujun.top:4023/udp/239.49.8.32:8000
+#EXTINF:-1 group-title="pjtv", 女性时尚
+http://pjx2.pujun.top:4023/udp/239.49.8.93:8000
+#EXTINF:-1 group-title="pjtv", 世界地理
+http://pjx2.pujun.top:4023/udp/239.49.8.87:8000
+#EXTINF:-1 group-title="pjtv", 文化精品
+http://pjx2.pujun.top:4023/udp/239.49.1.66:6000
+#EXTINF:-1 group-title="pjtv", 江苏公共新闻
+http://pjx2.pujun.top:4023/udp/239.49.8.120:8000
+#EXTINF:-1 group-title="pjtv", 江苏城市
+http://pjx2.pujun.top:4023/udp/239.49.8.107:8000
+#EXTINF:-1 group-title="pjtv", 江苏教育
+http://pjx2.pujun.top:4023/udp/239.49.8.122:8000
+#EXTINF:-1 group-title="pjtv", 江苏体育休闲
+http://pjx2.pujun.top:4023/udp/239.49.8.117:8000
+#EXTINF:-1 group-title="pjtv", 江苏影视
+http://pjx2.pujun.top:4023/udp/239.49.8.118:8000
+#EXTINF:-1 group-title="pjtv", 江苏综艺
+http://pjx2.pujun.top:4023/udp/239.49.8.108:8000
+#EXTINF:-1 group-title="pjtv", 优漫卡通
+http://pjx2.pujun.top:4023/udp/239.49.8.119:8000
+#EXTINF:-1 group-title="pjtv", 生活时尚
+http://pjx2.pujun.top:4023/udp/239.49.8.175:6000
+#EXTINF:-1 group-title="pjtv", 动漫秀场
+http://pjx2.pujun.top:4023/udp/239.49.8.178:6000
+#EXTINF:-1 group-title="pjtv", 全纪实
+http://pjx2.pujun.top:4023/udp/239.49.8.179:6000
+#EXTINF:-1 group-title="pjtv", 都市剧场
+http://pjx2.pujun.top:4023/udp/239.49.8.180:6000
+#EXTINF:-1 group-title="pjtv", 魅力足球
+http://pjx2.pujun.top:4023/udp/239.49.8.181:6000
+#EXTINF:-1 group-title="pjtv", 欢笑剧场
+http://pjx2.pujun.top:4023/udp/239.49.8.182:6000
+#EXTINF:-1 group-title="pjtv", 金鹰纪实
+http://pjx2.pujun.top:4023/udp/239.49.8.79:8000
+#EXTINF:-1 group-title="pjtv", 金鹰卡通
+http://pjx2.pujun.top:4023/udp/239.49.8.33:8000
+#EXTINF:-1 group-title="pjtv", 梨园频道
+http://pjx2.pujun.top:4023/udp/239.49.9.61:6000
+#EXTINF:-1 group-title="pjtv", 武术世界
+http://pjx2.pujun.top:4023/udp/239.49.9.62:6000
+#EXTINF:-1 group-title="pjtv", 文物宝库
+http://pjx2.pujun.top:4023/udp/239.49.9.63:6000
+
